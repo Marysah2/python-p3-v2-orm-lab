@@ -1,7 +1,6 @@
 # lib/employee.py
 
 from lib import CONN, CURSOR
-
 class Employee:
     all = {}
 
